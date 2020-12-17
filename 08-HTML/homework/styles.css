@@ -1,0 +1,47 @@
+*
+
+body{
+	background: palegreen;
+}
+
+div h1{
+  color: coral;
+}
+
+ img{
+
+	width:  400px;
+
+
+}
+
+div {
+	height: 600px
+	width: 500px;
+	color: black;
+	padding: 50px
+
+}
+div #thirdDiv{
+	border: 500px
+	color: yellow;
+	height: 600px
+	width: 500px;
+
+}
+
+
+span {
+
+	font-size: 18px;
+	margin: 50px;
+	
+}	
+a{
+
+position: fixed;
+bottom:100px;
+right:100px;
+color: crimson;
+
+}

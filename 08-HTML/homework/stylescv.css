@@ -1,0 +1,76 @@
+*
+
+
+#contenedor{
+	
+	 width: 300px;
+  height: 250px;
+  margin: auto;
+  margin-top: 30px;
+  text-align : justify;
+  box-shadow: 2px -5px 10px #AFA4F5    ;
+  padding: 20px;
+  color: #59400C ;    
+  margin-bottom: auto;
+
+  
+}
+
+
+
+body {
+	
+	background: #C6FCF0;
+	position: center;
+
+
+
+}
+p{
+	color: #404946 ;
+	 background-color:#C6FCF0 ;
+  transition: background-color .5s;
+}
+
+p:hover{
+	background-color: #51E7C4;
+}
+
+
+ img	{
+	float: right;
+	box-shadow: 2px 5px 5px #999;
+	padding: 1px;
+
+}
+
+
+
+ #Educacion{
+	
+ 
+  box-shadow: 2px 15px 50px #5EF8B4 ;
+  padding: 20px;
+  color: #072A05;
+
+   background-color:#FCFEDC  ;
+  transition: background-color .5s;
+
+  
+}
+
+#Educacion :hover{
+	background-color: #51E7C4;
+
+}
+
+
+#Skills{
+	background-color: #053116   ;
+  transition: background-color .15s;
+
+}
+
+#Skills:hover{
+	background-color: #FCFEDC  ;
+}
